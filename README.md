@@ -8,7 +8,6 @@ QR Codes have become ubiquitous due to their simplicity.  One of the usecases pe
 
 Below are the solution details for custom mobile native apps on iOS and Android towards offline verification, along with ability for online verification.
 
-<center>
 <table>
   
   <tr>
@@ -40,7 +39,6 @@ Below are the solution details for custom mobile native apps on iOS and Android 
   </tr>
   
 </table>
-</center>
 
 ## Workflow Architecture / Design
 
