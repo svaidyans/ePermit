@@ -46,7 +46,7 @@ Below are the solution details for custom mobile native apps on iOS and Android 
 As described below, any official of a government department (called "Issuing Authority") authorized to issue ePermits to citizens, registers in the system and generates an ePermit.  The system has the capability to deliver the ePermit to a citizen in any one of the multiple channels - Email or SMS or WhatsApp or Telegram.  The delivered ePermit can both be offline verified via a native mobile app or online via a browser.
 
 <p align="center">
-  <img src="images/Process%20Diagram%20Government.png" height="20%" width="20%"></img>
+  <img src="images/Process%20Diagram%20Government.png" height="100%" width="100%"></img>
 </p>
 
 [<img src="images/top.png" height="24" width="24"></img>](#intro)
