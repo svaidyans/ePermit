@@ -94,23 +94,14 @@ The iOS and Android apps for offline verification can be downloaded from the res
 The demo videos of the iOS and Android apps showcasing the offline verification functionality for a sample enterprise implementation:
 
 <table>
-
-	<tr>
-	
-		<td>
-			<p>
-  				<a href="https://bit.ly/permit-ios"><img src="images/iOS%20App.png"></img></a>
-			</p>
-		</td>
-	
-		<td>
-			<p>
-  				<a href="https://bit.ly/permit-android"><img src="images/Android%20App.png"></img></a>
-			</p>
-		</td>
-		
-	</tr>
-
+   <tr>
+      <td>
+         <a href="https://bit.ly/permit-ios"><img src="images/iOS%20App.png"></img></a>
+      </td>
+      <td>
+         <a href="https://bit.ly/permit-android"><img src="images/Android%20App.png"></img></a>
+      </td>
+   </tr>
 </table>
 
 [<img src="images/top.png" height="24" width="24"></img>](#intro)
