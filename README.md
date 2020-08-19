@@ -1,6 +1,7 @@
+<img src="images/Header.png"></img>
+
 # ePermit
 QR Code based digital identity with offline and online verification capabilities.
-<img src="images/Header.png"></img>
 
 ## Intro
 
@@ -8,8 +9,7 @@ QR Codes have become ubiquitous due to their simplicity.  One of the usecases pe
 
 Below are the solution details for custom mobile native apps on iOS and Android towards offline verification, along with ability for online verification.
 
-<p align="center">
-<table style = "margin-left:auto; margin-right:auto">
+<table>
   
   <tr>
     <th><a href="#workflow-architecture--design">Workflow Architecture / Design</a></th>
@@ -40,7 +40,6 @@ Below are the solution details for custom mobile native apps on iOS and Android 
   </tr>
   
 </table>
-</p>
 
 ## Workflow Architecture / Design
 
@@ -75,25 +74,19 @@ The primary design consideration while designing the database is a NoSQL schema,
 The iOS and Android apps for offline verification can be downloaded from the respective app store:
 
 <table>
-
-	<tr>
-	
-		<td>
-			<p>
-  				<a href="https://apps.apple.com/in/app/safety-suite-permit/id1517865742"><img src="images/iOS%20Download.png"></img></a>
-			</p>
-		</td>
-	
-		<td>
-			<p>
-  				<a href="https://play.google.com/store/apps/details?id=com.safetysuite.permit"><img src="images/Android%20Download.png"></img></a>
-			</p>
-		</td>
-		
-	</tr>
-
+   <tr>
+      <td>
+         <p>
+            <a href="https://apps.apple.com/in/app/safety-suite-permit/id1517865742"><img src="images/iOS%20Download.png"></img></a>
+         </p>
+      </td>
+      <td>
+         <p>
+            <a href="https://play.google.com/store/apps/details?id=com.safetysuite.permit"><img src="images/Android%20Download.png"></img></a>
+         </p>
+      </td>
+   </tr>
 </table>
-
 
 [<img src="images/top.png" height="24" width="24"></img>](#intro)
 
