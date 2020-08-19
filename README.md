@@ -91,10 +91,10 @@ The demo videos of the iOS and Android apps showcasing the offline verification 
 <table>
    <tr>
       <td>
-         <a href="https://bit.ly/permit-ios" target="_blank"><img src="images/iOS%20App.png"></img></a>
+         <a href="https://bit.ly/permit-ios"><img src="images/iOS%20App.png"></img></a>
       </td>
       <td>
-         <a href="https://bit.ly/permit-android" target="_blank"><img src="images/Android%20App.png"></img></a>
+         <a href="https://bit.ly/permit-android"><img src="images/Android%20App.png"></img></a>
       </td>
    </tr>
 </table>
