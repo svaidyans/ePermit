@@ -1,7 +1,7 @@
 <img src="images/Header.png"></img>
 
 # ePermit
-QR Code based digital identity with offline and online verification capabilities.
+QR Code based digital identity solution with offline and online verification capabilities.
 
 ## Intro
 QR Codes have become ubiquitous due to their simplicity.  One of the usecases pertains to enterprises and governments using QR Codes for providing people with digital passes for authorized entry to buildings or for permitted travel during a lockdown.  To make a QR Code tamper proof, one of the techniques is to embed a URL which can be verified online.  However this poses a challenge when there is no data connectivity.  I am proposing an alternate solution to encrypt and digitally sign the contents of a static QR Code.  It not only ensures security, but also becomes easy to verify and validate the QR Code in an offline mode with custom mobile apps.
