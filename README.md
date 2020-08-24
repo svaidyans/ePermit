@@ -44,7 +44,7 @@ Below are the solution details for custom mobile native apps on iOS and Android 
 ePermit currently caters to two types of end usecase scenarios:  Government departments wanting to issue travel passes to citizens and Enterprises needing to provide entry passes to employees / contractors / visitors etc., for accessing facilities.  The primary technologies used in the solution are:
 
 <p align="center">
-  <img src="images/Technology%20word%20cloud.png" width="50%" height="50%"></src>
+  <img src="images/Technology%20Word%20Cloud.png" width="50%" height="50%"></src>
 </p>
 
 ### Government
