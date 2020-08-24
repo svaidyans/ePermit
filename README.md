@@ -43,7 +43,9 @@ Below are the solution details for custom mobile native apps on iOS and Android 
 ## Workflow Architecture / Design
 ePermit currently caters to two types of end usecase scenarios:  Government departments wanting to issue travel passes to citizens and Enterprises needing to provide entry passes to employees / contractors / visitors etc., for accessing facilities.  The primary technologies used in the solution are:
 
-<img src="Technology%20word%cloud.png"></src>
+<p align="center">
+  <img src="images/Technology%20word%cloud.png"></src>
+</p>
 
 ### Government
 As described below, any official of a government department (called "Issuing Authority") authorized to issue ePermits to citizens, registers in the system and generates an ePermit.  The system has the capability to deliver the ePermit to a citizen in any one of the multiple channels - Email or SMS or WhatsApp or Telegram.  The delivered ePermit can both be offline verified via a native mobile app or online via a browser.
